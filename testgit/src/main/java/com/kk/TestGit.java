@@ -10,7 +10,7 @@ public class TestGit {
 		
 		SpringApplication.run(TestGit.class, args);
 		
-		
+		System.out.println("hhhh");
 	}
 
 }
