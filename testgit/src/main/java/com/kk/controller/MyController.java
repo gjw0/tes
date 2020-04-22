@@ -13,8 +13,9 @@ public class MyController {
 		System.out.println("nnnn---");
 		System.out.println("nnnn---");
 
-		System.out.println("kqwq---");
-		System.out.println("qwq--");
+		System.out.println("wewew---");
+		System.out.println("wewew--");
+		
 		return "a";
 	}
 	
