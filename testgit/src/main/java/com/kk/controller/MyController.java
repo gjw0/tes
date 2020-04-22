@@ -12,14 +12,7 @@ public class MyController {
 	public String a() {
 		
 		System.out.println("ccnn---");
-		System.out.println("hhhhh");
-		System.out.println("aaaaaa");
-		System.err.println("nnnn---");
-		
-		
-		System.out.println("aaddc---");
-		System.out.println("aaddc--");
-		
+
 		return "a";
 	}
 	
