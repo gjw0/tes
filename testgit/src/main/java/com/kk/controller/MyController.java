@@ -11,8 +11,8 @@ public class MyController {
 	@ResponseBody
 	public String a() {
 
-		System.out.println("yyymm---");
-		System.out.println("yyymm---");
+		System.out.println("kkkkk---");
+		System.out.println("kkkk--");
 		return "a";
 	}
 	
