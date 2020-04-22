@@ -10,9 +10,9 @@ public class MyController {
 	@RequestMapping("/a")
 	@ResponseBody
 	public String a() {
-		System.out.println("yyyy---");
-		System.out.println("yyyy---");
-		System.out.println("yyyy---");
+
+		System.out.println("yyymm---");
+		System.out.println("yyymm---");
 		return "a";
 	}
 	
