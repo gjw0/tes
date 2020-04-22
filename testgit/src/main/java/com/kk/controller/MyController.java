@@ -13,8 +13,8 @@ public class MyController {
 		System.out.println("nnnn---");
 		System.out.println("nnnn---");
 
-		System.out.println("kkkkk---");
-		System.out.println("kkkk--");
+		System.out.println("kqwq---");
+		System.out.println("qwq--");
 		return "a";
 	}
 	
