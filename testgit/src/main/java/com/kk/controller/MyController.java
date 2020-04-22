@@ -12,6 +12,15 @@ public class MyController {
 	public String a() {
 		
 		System.out.println("aann---");
+		if(1 > 0) {
+			System.out.println("mmm---");
+		}
+		else {
+			System.out.println("liwe---");
+		}
+		
+		String a = "dsf";
+		
 		System.out.println("zznn---");
 		
 		return "a";
