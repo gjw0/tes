@@ -10,8 +10,8 @@ public class MyController {
 	@RequestMapping("/a")
 	@ResponseBody
 	public String a() {
-		System.out.println("zzzz---");
-		System.out.println("zzzz---");
+		System.out.println("gggg---");
+		System.out.println("gggg---");
 		return "a";
 	}
 	
