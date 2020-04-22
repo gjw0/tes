@@ -12,6 +12,7 @@ public class MyController {
 	public String a() {
 		
 		System.out.println("ccnn---");
+		System.out.println("sdfas");
 
 		return "a";
 	}
