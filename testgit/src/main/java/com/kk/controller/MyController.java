@@ -12,6 +12,14 @@ public class MyController {
 	public String a() {
 		
 		System.out.println("aann---");
+		int m = 4;
+		while(m < 10) {
+			System.out.println("sdfasdf");
+			m++;
+		}
+		if(true) {
+			System.out.println("sfasdfasdfsdfsadff");
+		}
 		System.out.println("zznn---");
 		
 		return "a";
