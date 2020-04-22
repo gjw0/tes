@@ -12,13 +12,13 @@ public class MyController {
 	public String a() {
 		
 		System.out.println("ccnn---");
+		System.out.println("hhhhh");
 		System.out.println("aaaaaa");
-		System.out.println("nnnn---");
+		System.err.println("nnnn---");
 		
 		
-		
-		System.out.println("ak22---");
-		System.out.println("ak22--");
+		System.out.println("aaddc---");
+		System.out.println("aaddc--");
 		
 		return "a";
 	}
