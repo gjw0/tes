@@ -12,7 +12,17 @@ public class MyController {
 	public String a() {
 		
 		System.out.println("aann---");
-		System.out.println("zznn---");
+		if(true) {
+			System.out.println("asdflask");
+			
+		}
+		int i = 0;
+		while(i<10) {
+			System.out.println("sdfs");
+			i++;
+			
+		}
+		System.out.println("asdfsa---");
 		
 		return "a";
 	}
