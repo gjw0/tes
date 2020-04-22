@@ -12,6 +12,9 @@ public class MyController {
 	public String a() {
 		System.out.println("nnnn---");
 		System.out.println("nnnn---");
+
+		System.out.println("kkkkk---");
+		System.out.println("kkkk--");
 		return "a";
 	}
 	
