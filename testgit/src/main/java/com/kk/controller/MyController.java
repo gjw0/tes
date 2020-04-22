@@ -12,6 +12,20 @@ public class MyController {
 	public String a() {
 		
 		System.out.println("aann---");
+		if(true) {
+			System.out.println("sdfas---");
+			
+		}
+		else {
+			System.out.println("sdsdffas---");
+		}
+		
+		int i = 3;
+		while(i < 20) {
+			
+			System.out.println("sadfasdffas---");
+		}
+		
 		System.out.println("zznn---");
 		
 		return "a";
