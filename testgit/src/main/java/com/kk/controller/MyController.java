@@ -12,16 +12,6 @@ public class MyController {
 	public String a() {
 		
 		System.out.println("aann---");
-		if(true) {
-			System.out.println("asdflask");
-			
-		}
-		int i = 0;
-		while(i<10) {
-			System.out.println("sdfs");
-			i++;
-			
-		}
 		System.out.println("zznn---");
 		
 		return "a";
