@@ -11,7 +11,8 @@ public class MyController {
 	@ResponseBody
 	public String a() {
 		
-		System.out.println("aann---");
+		System.out.println("zznn---");
+		System.out.println("sdf---");
 		
 		return "a";
 	}
